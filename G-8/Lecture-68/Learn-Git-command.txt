@@ -1,0 +1,13 @@
+
+
+git status: 
+    Show the current status of the repository.
+git init:
+    Initialize a new Git repository in the current directory.
+git add <file>:
+    Add file changes to the staging area.
+git commit -m "message":
+    Record staged changes with a descriptive message.
+git push -u origin master:
+     Upload local commits to the remote repository.
+
